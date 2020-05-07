@@ -655,6 +655,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3072917783832990975, guid: 6c185e4a88317e749a7a7c5d757947b0,
+        type: 3}
+      propertyPath: m_Name
+      value: RiellyBlue
+      objectReference: {fileID: 0}
     - target: {fileID: 5081518631924214711, guid: 6c185e4a88317e749a7a7c5d757947b0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -668,7 +673,7 @@ PrefabInstance:
     - target: {fileID: 5081518631924214711, guid: 6c185e4a88317e749a7a7c5d757947b0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.9777957
+      value: 4.17
       objectReference: {fileID: 0}
     - target: {fileID: 5081518631924214711, guid: 6c185e4a88317e749a7a7c5d757947b0,
         type: 3}
