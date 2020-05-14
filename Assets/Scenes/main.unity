@@ -1018,4 +1018,77 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+<<<<<<< HEAD
   m_SourcePrefab: {fileID: 100100000, guid: 64f55aad7c09e5244a417bb951a681c8, type: 3}
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 1fac51cfdd671d742ac844c084287f02, type: 3}
+--- !u!1001 &8467462017030994211
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4499568806406053427, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_Name
+      value: TaylorDemo
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.989
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14.275
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 21.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127112362689493010, guid: 91ba19089d5d44f49a9b3e9e82a5011e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 91ba19089d5d44f49a9b3e9e82a5011e, type: 3}
+>>>>>>> Taylor
